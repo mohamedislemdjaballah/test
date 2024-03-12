@@ -1,2 +1,13 @@
 make a function that rename the uploaded files so when the user upload 
 an image of the same name the files remain the same.
+
+sql injection.
+
+limit files access.
+
+limit the work of the controler to only manage data exchange.
+
+to secure more the uploaded videos we can add a custom video player so that it won't have access to the video parameters.
+
+secure the courses by limiting the access to the graphic card. 
+line added by me.
