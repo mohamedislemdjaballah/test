@@ -11,3 +11,5 @@ to secure more the uploaded videos we can add a custom video player so that it w
 
 secure the courses by limiting the access to the graphic card. 
 line added by me.
+
+line added by someone.
