@@ -1,0 +1,2 @@
+make a function that rename the uploaded files so when the user upload 
+an image of the same name the files remain the same.
